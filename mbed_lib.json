@@ -1,0 +1,21 @@
+{
+    "name": "SWO",
+    "config": {
+        "DEFAULT_ENABLED_CHANNELS": {
+            "help": "Enable serial wire out on all 32 channels by default",
+            "value": "0xFFFFFFFF" 
+        },
+        "CPU_CORE_FREQHZ": {
+            "help": "CPU Frequency",
+            "value": 100000000
+        },
+        "SWO_SPEED": {
+            "help": "Serial Wire Out speed",
+            "value": 115200
+        },
+        "TOTAL_CHANNEL_NUMBER": {
+            "help": "Number of Channels",
+            "value": 32
+        }
+    }
+}
