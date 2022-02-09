@@ -28,8 +28,7 @@ For example to have SWO_Channel_0 output, we can configure as follows
 Other channels can be added under the decoders array of the the json with their configuration parameters.
 
 # Getting Started
-Clone the SWOLogger Library to the directory containing your project using 
-`git clone https://dev.azure.com/iotnxt/Raptor/_git/IoTnxt.uRaptor.Firmware.Core.SWOLogger`
+Clone the SWOLogger Library to the directory containing your project.
 
 
 # Example
